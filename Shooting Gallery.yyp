@@ -4,7 +4,7 @@
     "mvc": "1.0",
     "IsDnDProject": true,
     "configs": [
-
+        
     ],
     "option_ecma": false,
     "parentProject": {
@@ -25,7 +25,7 @@
             }
         ],
         "hiddenResources": [
-
+            
         ],
         "projectPath": "${base_project}"
     },
@@ -148,6 +148,14 @@
                 "id": "aa66d9d0-60ad-4691-8a1d-0279867d1bc6",
                 "resourcePath": "views\\75cf4df3-8fdb-49a5-921a-579f354ebc60.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7d74153a-9d17-4ed6-b134-b379a08a917a",
+            "Value": {
+                "id": "f14002f3-4d1c-4ccf-a485-24dc2ca32928",
+                "resourcePath": "objects\\object_score\\object_score.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -288,7 +296,7 @@
         }
     ],
     "script_order": [
-
+        
     ],
     "tutorial": ""
 }
