@@ -5,16 +5,6 @@
     "name": "object_crosshair",
     "eventList": [
         {
-            "id": "a51abbfc-bb41-4b67-bb2e-ad4d4719d6aa",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "47e6f608-85ef-4795-9700-061a0722bc3d"
-        },
-        {
             "id": "c7afa952-34d8-43c3-9912-a7814a5c47c9",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -42,6 +32,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 64,
             "eventtype": 8,
+            "m_owner": "47e6f608-85ef-4795-9700-061a0722bc3d"
+        },
+        {
+            "id": "6e8395b8-cafb-452f-98ce-e3f401e5bfb2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "47e6f608-85ef-4795-9700-061a0722bc3d"
         }
     ],
