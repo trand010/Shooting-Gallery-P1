@@ -167,6 +167,22 @@
             }
         },
         {
+            "Key": "6559f425-654b-46ef-ae1a-fa083d137921",
+            "Value": {
+                "id": "95665813-bfe0-47ff-829f-7dad725f2e76",
+                "resourcePath": "objects\\object_target\\object_target.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "69f9956d-67c2-4c64-9cb6-de74088a8e14",
+            "Value": {
+                "id": "6c655036-488b-4015-afe4-53c186661e04",
+                "resourcePath": "objects\\object_target_bullets\\object_target_bullets.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6f7b4b77-33f8-4f55-b86b-594a7b9fde6a",
             "Value": {
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
