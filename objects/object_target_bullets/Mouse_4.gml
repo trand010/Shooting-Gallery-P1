@@ -8,3 +8,8 @@ with(object_controller) {
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 __dnd_lives += real(3);
 }
+
+/// @DnDAction : YoYo Games.Instances.Destroy_Instance
+/// @DnDVersion : 1
+/// @DnDHash : 6C31FEE6
+instance_destroy();

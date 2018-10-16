@@ -255,6 +255,22 @@
             }
         },
         {
+            "Key": "9c923aff-e398-48d5-a934-77fe7122c882",
+            "Value": {
+                "id": "3621bbb3-b22a-4670-9e86-09487c1e1534",
+                "resourcePath": "objects\\object_gameover\\object_gameover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9d38ada0-b1d5-495c-bf62-541109e227a4",
+            "Value": {
+                "id": "afc89afd-290f-4267-a757-e69eed9859c3",
+                "resourcePath": "rooms\\room_end\\room_end.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9ed13b3c-32fa-470f-9e8b-91e74921deef",
             "Value": {
                 "id": "9738a9f2-5dff-4e73-ba0b-12005acfaa57",
