@@ -17,3 +17,10 @@ with(object_controller) {
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 __dnd_lives += real(-1);
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 3387CC74
+/// @DnDArgument : "soundid" "sound_shoot"
+/// @DnDSaveInfo : "soundid" "8838e188-1e01-4a2b-ad2b-94dc50e41a87"
+audio_play_sound(sound_shoot, 0, 0);

@@ -12,3 +12,10 @@ with(object_controller) {
 
 __dnd_lives = real(-10000);
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 286AF1A6
+/// @DnDArgument : "soundid" "sound_bomb"
+/// @DnDSaveInfo : "soundid" "2f97eb5b-522d-44d8-84f6-9a66f258c7c5"
+audio_play_sound(sound_bomb, 0, 0);
